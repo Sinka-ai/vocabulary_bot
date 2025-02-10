@@ -1,0 +1,8 @@
+aiogram
+beautifulsoup4
+gensim
+googletrans
+numpy
+psycopg2_binary
+Requests
+google-generativeai
